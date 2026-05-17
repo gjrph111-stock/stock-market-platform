@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+openpyxl
+ta
+tqdm
+matplotlib
+mplfinance
+streamlit
+pillow
+requests
